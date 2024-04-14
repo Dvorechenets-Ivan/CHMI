@@ -1,0 +1,14 @@
+C:\Users\Fanera\Desktop\Ваня\Програмування\CHMI3var8\CHMI3var8\bin\Debug\net7.0\CHMI3var8.exe
+C:\Users\Fanera\Desktop\Ваня\Програмування\CHMI3var8\CHMI3var8\bin\Debug\net7.0\CHMI3var8.deps.json
+C:\Users\Fanera\Desktop\Ваня\Програмування\CHMI3var8\CHMI3var8\bin\Debug\net7.0\CHMI3var8.runtimeconfig.json
+C:\Users\Fanera\Desktop\Ваня\Програмування\CHMI3var8\CHMI3var8\bin\Debug\net7.0\CHMI3var8.dll
+C:\Users\Fanera\Desktop\Ваня\Програмування\CHMI3var8\CHMI3var8\bin\Debug\net7.0\CHMI3var8.pdb
+C:\Users\Fanera\Desktop\Ваня\Програмування\CHMI3var8\CHMI3var8\obj\Debug\net7.0\CHMI3var8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fanera\Desktop\Ваня\Програмування\CHMI3var8\CHMI3var8\obj\Debug\net7.0\CHMI3var8.AssemblyInfoInputs.cache
+C:\Users\Fanera\Desktop\Ваня\Програмування\CHMI3var8\CHMI3var8\obj\Debug\net7.0\CHMI3var8.AssemblyInfo.cs
+C:\Users\Fanera\Desktop\Ваня\Програмування\CHMI3var8\CHMI3var8\obj\Debug\net7.0\CHMI3var8.csproj.CoreCompileInputs.cache
+C:\Users\Fanera\Desktop\Ваня\Програмування\CHMI3var8\CHMI3var8\obj\Debug\net7.0\CHMI3var8.dll
+C:\Users\Fanera\Desktop\Ваня\Програмування\CHMI3var8\CHMI3var8\obj\Debug\net7.0\refint\CHMI3var8.dll
+C:\Users\Fanera\Desktop\Ваня\Програмування\CHMI3var8\CHMI3var8\obj\Debug\net7.0\CHMI3var8.pdb
+C:\Users\Fanera\Desktop\Ваня\Програмування\CHMI3var8\CHMI3var8\obj\Debug\net7.0\CHMI3var8.genruntimeconfig.cache
+C:\Users\Fanera\Desktop\Ваня\Програмування\CHMI3var8\CHMI3var8\obj\Debug\net7.0\ref\CHMI3var8.dll
