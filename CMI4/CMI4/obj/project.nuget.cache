@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SKrceiGBmXSg668EGsew8DIijE+Bm5csL6hzErCqResosldLxp+SZkIRJ7i2YsyGi1KFx7WNX9fCqIxyRvLHcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fanera\\Desktop\\Ваня\\Програмування\\CMI4\\CMI4\\CMI4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fanera\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

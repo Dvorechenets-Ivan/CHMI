@@ -1,0 +1,17 @@
+C:\Users\Fanera\Desktop\Ваня\Програмування\CMI4\CMI4\bin\Debug\net7.0\CMI4.exe
+C:\Users\Fanera\Desktop\Ваня\Програмування\CMI4\CMI4\bin\Debug\net7.0\CMI4.deps.json
+C:\Users\Fanera\Desktop\Ваня\Програмування\CMI4\CMI4\bin\Debug\net7.0\CMI4.runtimeconfig.json
+C:\Users\Fanera\Desktop\Ваня\Програмування\CMI4\CMI4\bin\Debug\net7.0\CMI4.dll
+C:\Users\Fanera\Desktop\Ваня\Програмування\CMI4\CMI4\bin\Debug\net7.0\CMI4.pdb
+C:\Users\Fanera\Desktop\Ваня\Програмування\CMI4\CMI4\bin\Debug\net7.0\MathNet.Numerics.dll
+C:\Users\Fanera\Desktop\Ваня\Програмування\CMI4\CMI4\obj\Debug\net7.0\CMI4.csproj.AssemblyReference.cache
+C:\Users\Fanera\Desktop\Ваня\Програмування\CMI4\CMI4\obj\Debug\net7.0\CMI4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fanera\Desktop\Ваня\Програмування\CMI4\CMI4\obj\Debug\net7.0\CMI4.AssemblyInfoInputs.cache
+C:\Users\Fanera\Desktop\Ваня\Програмування\CMI4\CMI4\obj\Debug\net7.0\CMI4.AssemblyInfo.cs
+C:\Users\Fanera\Desktop\Ваня\Програмування\CMI4\CMI4\obj\Debug\net7.0\CMI4.csproj.CoreCompileInputs.cache
+C:\Users\Fanera\Desktop\Ваня\Програмування\CMI4\CMI4\obj\Debug\net7.0\CMI4.csproj.CopyComplete
+C:\Users\Fanera\Desktop\Ваня\Програмування\CMI4\CMI4\obj\Debug\net7.0\CMI4.dll
+C:\Users\Fanera\Desktop\Ваня\Програмування\CMI4\CMI4\obj\Debug\net7.0\refint\CMI4.dll
+C:\Users\Fanera\Desktop\Ваня\Програмування\CMI4\CMI4\obj\Debug\net7.0\CMI4.pdb
+C:\Users\Fanera\Desktop\Ваня\Програмування\CMI4\CMI4\obj\Debug\net7.0\CMI4.genruntimeconfig.cache
+C:\Users\Fanera\Desktop\Ваня\Програмування\CMI4\CMI4\obj\Debug\net7.0\ref\CMI4.dll
