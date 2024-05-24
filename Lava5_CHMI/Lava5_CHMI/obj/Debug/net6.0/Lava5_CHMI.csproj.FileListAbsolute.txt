@@ -1,0 +1,15 @@
+C:\Users\2022\Desktop\Курс№1\Visual\Lava5_CHMI\Lava5_CHMI\bin\Debug\net6.0\Lava5_CHMI.exe
+C:\Users\2022\Desktop\Курс№1\Visual\Lava5_CHMI\Lava5_CHMI\bin\Debug\net6.0\Lava5_CHMI.deps.json
+C:\Users\2022\Desktop\Курс№1\Visual\Lava5_CHMI\Lava5_CHMI\bin\Debug\net6.0\Lava5_CHMI.runtimeconfig.json
+C:\Users\2022\Desktop\Курс№1\Visual\Lava5_CHMI\Lava5_CHMI\bin\Debug\net6.0\Lava5_CHMI.dll
+C:\Users\2022\Desktop\Курс№1\Visual\Lava5_CHMI\Lava5_CHMI\bin\Debug\net6.0\Lava5_CHMI.pdb
+C:\Users\2022\Desktop\Курс№1\Visual\Lava5_CHMI\Lava5_CHMI\obj\Debug\net6.0\Lava5_CHMI.csproj.AssemblyReference.cache
+C:\Users\2022\Desktop\Курс№1\Visual\Lava5_CHMI\Lava5_CHMI\obj\Debug\net6.0\Lava5_CHMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022\Desktop\Курс№1\Visual\Lava5_CHMI\Lava5_CHMI\obj\Debug\net6.0\Lava5_CHMI.AssemblyInfoInputs.cache
+C:\Users\2022\Desktop\Курс№1\Visual\Lava5_CHMI\Lava5_CHMI\obj\Debug\net6.0\Lava5_CHMI.AssemblyInfo.cs
+C:\Users\2022\Desktop\Курс№1\Visual\Lava5_CHMI\Lava5_CHMI\obj\Debug\net6.0\Lava5_CHMI.csproj.CoreCompileInputs.cache
+C:\Users\2022\Desktop\Курс№1\Visual\Lava5_CHMI\Lava5_CHMI\obj\Debug\net6.0\Lava5_CHMI.dll
+C:\Users\2022\Desktop\Курс№1\Visual\Lava5_CHMI\Lava5_CHMI\obj\Debug\net6.0\refint\Lava5_CHMI.dll
+C:\Users\2022\Desktop\Курс№1\Visual\Lava5_CHMI\Lava5_CHMI\obj\Debug\net6.0\Lava5_CHMI.pdb
+C:\Users\2022\Desktop\Курс№1\Visual\Lava5_CHMI\Lava5_CHMI\obj\Debug\net6.0\Lava5_CHMI.genruntimeconfig.cache
+C:\Users\2022\Desktop\Курс№1\Visual\Lava5_CHMI\Lava5_CHMI\obj\Debug\net6.0\ref\Lava5_CHMI.dll

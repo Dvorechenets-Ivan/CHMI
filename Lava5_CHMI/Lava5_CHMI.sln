@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lava5_CHMI", "Lava5_CHMI\Lava5_CHMI.csproj", "{C07EC1B7-AEA5-41D1-B2FF-EE161983BBDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C07EC1B7-AEA5-41D1-B2FF-EE161983BBDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C07EC1B7-AEA5-41D1-B2FF-EE161983BBDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C07EC1B7-AEA5-41D1-B2FF-EE161983BBDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C07EC1B7-AEA5-41D1-B2FF-EE161983BBDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6DCB35A-3B2B-49E4-97EA-C450493FB177}
+	EndGlobalSection
+EndGlobal
